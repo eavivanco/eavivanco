@@ -1,5 +1,5 @@
 # 👨‍💻 About Me:
-🔭 Currently working on AI models in python
+🔭 Currently working on AI models in python !
 
 
 ## 🌐 Socials:
